@@ -1,0 +1,6 @@
+{
+  "name": "Gênesis Engenharia e Consultoria",
+  "description": "Engenharia Agrária, Georreferenciamento Rural, REURB, CAR, PRA, PRAD, Laudos Técnicos e Tecnologia Geoespacial em Mato Grosso. Desde 1980.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
